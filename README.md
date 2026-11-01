@@ -92,21 +92,31 @@ The analysis addresses the following five business questions:
 
 What is the total amount each customer spent at the restaurant?
 
+![Danny's Diner](Danny's%20Dinner%201.png)
+
 2. Customer Visit Frequency
 
 How many days has each customer visited the restaurant?
+
+![Danny's Diner](Danny's%20Dinner%202.png)
 
 3. First Menu Purchase
 
 What was the first item from the menu purchased by each customer?
 
+![Danny's Diner](Danny's%20Dinner%203.png)
+
 4. Most Purchased Menu Item
 
 What is the most purchased item on the menu, and how many times was it purchased by all customers?
 
+![Danny's Diner](Danny's%20Dinner%204.png)
+
 5. Customer Menu Preferences
 
 Which item was the most popular for each customer?
+
+![Danny's Diner](Danny's%20Dinner%205.png)
 
 ### SQL Concepts Applied
 The project demonstrates practical applications of SQL for relational data analysis, including:
